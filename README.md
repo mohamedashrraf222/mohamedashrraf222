@@ -2,7 +2,7 @@
 
 - I’m a junior frontend developer
 - I’m currently improving my skills in web development
-- you can contact me through my linkedin profile with this link https://www.linkedin.com/in/mohamed-ashraf-3b861a226/
+- you can contact me through my linkedin profile with this link https://www.linkedin.com/in/mohamedashrraf222/
 
 <!---
 mohamedashrraf222/mohamedashrraf222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
